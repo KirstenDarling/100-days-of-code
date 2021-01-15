@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!--Day 1: January 12, 2020 Tuesday-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**: I love Flexbox! The first time I learned about Flexbox and CSS Grid it was a little confusing. Finally, on this project it clicked. And now, Flexbox seems simple.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** [Basic Portfolio using Flexbox](https://t.co/SbGCVxgQBr?amp=1)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<!--Day 2: January 13, 2020 Wednesday-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Flexbox is getting easier for me! I'm going to keep practicing my layout skills.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Full Moon Website using Flexbox](https://t.co/ZTSDxruN28?amp=1)
 
+<!--Day 3: January 14, 2020 Thursday-->
 
-### Day 1: June 27, Monday
+**Today's Progress**:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: [Name of Project](link)
+
+<!--Day 4: January 15, 2020 Friday-->
+
+**Today's Progress**:
+
+**Thoughts**:
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Name of Project](link)
