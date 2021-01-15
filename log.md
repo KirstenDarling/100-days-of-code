@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-<!--Day 1: January 12, 2020 Tuesday-->
+### Day 1: January 12, 2020 Tuesday
 
 **Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
@@ -8,7 +8,7 @@
 
 **Link(s) to work:** [Basic Portfolio using Flexbox](https://t.co/SbGCVxgQBr?amp=1)
 
-<!--Day 2: January 13, 2020 Wednesday-->
+### Day 2: January 13, 2020 Wednesday
 
 **Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
@@ -16,7 +16,7 @@
 
 **Link(s) to work**: [Full Moon Website using Flexbox](https://t.co/ZTSDxruN28?amp=1)
 
-<!--Day 3: January 14, 2020 Thursday-->
+### Day 3: January 14, 2020 Thursday
 
 **Today's Progress**:
 
@@ -24,7 +24,7 @@
 
 **Link(s) to work**: [Name of Project](link)
 
-<!--Day 4: January 15, 2020 Friday-->
+### Day 4: January 15, 2020 Friday
 
 **Today's Progress**:
 
