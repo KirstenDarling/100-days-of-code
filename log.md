@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 12, 2020 Tuesday
+### Day 1: January 12, 2021 Tuesday
 
 **Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
@@ -8,7 +8,7 @@
 
 **Link(s) to work:** [Basic Portfolio using Flexbox](https://t.co/SbGCVxgQBr?amp=1)
 
-### Day 2: January 13, 2020 Wednesday
+### Day 2: January 13, 2021 Wednesday
 
 **Today's Progress**: I worked on my Skillcrush class projects focusing on Flexbox layout and Responsive Design.
 
@@ -16,20 +16,30 @@
 
 **Link(s) to work**: [Full Moon Website using Flexbox](https://t.co/ZTSDxruN28?amp=1)
 
-### Day 3: January 14, 2020 Thursday
+### Day 3: January 14, 2021 Thursday
 
-**Today's Progress**:
+**Today's Progress**: Im getting back into the Github habit! I added several projects on Github Pages like this static vision board.
 
-**Thoughts**:
+**Thoughts**: Git is easy peasy. I need to use it everyday until it's second nature.
 
-**Link(s) to work**: [Name of Project](link)
+**Link(s) to work**: [Vision Board](kirstendarling.github.io/vision-board/)
 
-### Day 4: January 15, 2020 Friday
+### Day 4: January 16, 2021 Saturday
 
-**Today's Progress**:
+**Today's Progress**: I worked on my vision board from the day before. I made the colors prettier and bolder, I changed the background image and some of the text, and most importantly--- I made it responsive. So, now it looks good on mobile devices too!
 
-**Thoughts**:
+**Thoughts**: The darker colors look so much better. I need to convert all my old static sites to responsive ASAP. I love Flexbox.
 
 **Link(s) to work**
 
-1. [Name of Project](link)
+1. [New Vision Board](kirstendarling.github.io/new-vision-board/)
+
+### Day 5: January 30, 2021 Saturday
+
+**Today's Progress**: I converted my old Rogue Pickings website from Skillcrush class from static to responsive.
+
+**Thoughts**: This one took a minute. I need to keep practicing Flexbox.
+
+**Link(s) to work**
+
+1. [New Vision Board](kirstendarling.github.io/rogue-pickings-responsive/)
