@@ -42,4 +42,4 @@
 
 **Link(s) to work**
 
-1. [New Vision Board](kirstendarling.github.io/rogue-pickings-responsive/)
+1. [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
