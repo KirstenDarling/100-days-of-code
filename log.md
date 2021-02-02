@@ -6,7 +6,7 @@
 
 **Thoughts:**: I love Flexbox! The first time I learned about Flexbox and CSS Grid it was a little confusing. Finally, on this project it clicked. And now, Flexbox seems simple.
 
-**Link(s) to work:** [Basic Portfolio using Flexbox](https://t.co/SbGCVxgQBr?amp=1)
+**Link to work:** [Basic Portfolio using Flexbox](https://t.co/SbGCVxgQBr?amp=1)
 
 ### Day 2: January 13, 2021 Wednesday
 
@@ -14,7 +14,7 @@
 
 **Thoughts**: Flexbox is getting easier for me! I'm going to keep practicing my layout skills.
 
-**Link(s) to work**: [Full Moon Website using Flexbox](https://t.co/ZTSDxruN28?amp=1)
+**Link to work**: [Full Moon Website using Flexbox](https://t.co/ZTSDxruN28?amp=1)
 
 ### Day 3: January 14, 2021 Thursday
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: Git is easy peasy. I need to use it everyday until it's second nature.
 
-**Link(s) to work**: [Vision Board](kirstendarling.github.io/vision-board/)
+**Link to work**: [Vision Board](kirstendarling.github.io/vision-board/)
 
 ### Day 4: January 16, 2021 Saturday
 
@@ -30,9 +30,7 @@
 
 **Thoughts**: The darker colors look so much better. I need to convert all my old static sites to responsive ASAP. I love Flexbox.
 
-**Link(s) to work**
-
-1. [New Vision Board](kirstendarling.github.io/new-vision-board/)
+**Link to work**: [New Vision Board](kirstendarling.github.io/new-vision-board/)
 
 ### Day 5: January 30, 2021 Saturday
 
@@ -40,9 +38,7 @@
 
 **Thoughts**: This one took a minute. I need to keep practicing Flexbox.
 
-**Link(s) to work**
-
-1. [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
+**Link to work**: [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
 
 ### Day 6: February 1, 2021 Monday
 
@@ -50,6 +46,4 @@
 
 **Thoughts**:
 
-**Link(s) to work**
-
-1. [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
+**Link(s) to work**: [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
