@@ -42,8 +42,8 @@
 
 ### Day 6: February 1, 2021 Monday
 
-**Today's Progress**:
+**Today's Progress**: Today I made a website that features all my favorite coding resources.
 
-**Thoughts**:
+**Thoughts**: I loved this project. Super fun. I'm definately getting responsive web development down. Next step JavaScript practice....
 
-**Link(s) to work**: [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
+**Link(s) to work**: [Coding Resources](kirstendarling.github.io/105-coding-resources/)
