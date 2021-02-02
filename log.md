@@ -43,3 +43,13 @@
 **Link(s) to work**
 
 1. [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
+
+### Day 6: February 1, 2021 Monday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1. [Rogue Pickings Responsive](kirstendarling.github.io/rogue-pickings-responsive/)
