@@ -48,7 +48,7 @@
 
 **Link(s) to work**: [Coding Resources](https://kirstendarling.github.io/105-coding-resources/)
 
-### Day 7-10: February 6, 2021 Tuesday-Friday
+### Day 7-10: February 3-6, 2021 Tuesday-Friday
 
 **Today's Progress**: No new finished projects... just updating, cleaning, and commenting code aka gettin' them green squares on git.
 
