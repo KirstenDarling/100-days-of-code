@@ -46,7 +46,7 @@
 
 **Thoughts**: I loved this project. Super fun. I'm definately getting responsive web development down. Next step JavaScript practice....
 
-**Link(s) to work**: [Coding Resources](https://kirstendarling.github.io/105-coding-resources/)
+**Link(s) to work**: [Coding Resources](https://kirstendarling.github.io/105-coding_resources/)
 
 ### Day 7-10: February 3-6, 2021 Tuesday-Friday
 
@@ -54,7 +54,7 @@
 
 **Thoughts**:
 
-**Link(s) to work**: [Project Name]()
+**Link(s) to work**: [My GitHub Account](https://github.com/KirstenDarling)
 
 ### Day 11: February 23, 2021 Tuesday
 
@@ -94,7 +94,7 @@
 
 **Thoughts**: After getting over COVID-19, I jumped back into coding with a project that was a long time coming. I finally had enough CSS3 and HTML5 sample sites completed to make a portfolio
 
-**Link(s) to work**: [Project Name](http://www.kirstendarling.com)
+**Link(s) to work**: [Kirsten Darling's Portfolio Website](http://www.kirstendarling.com)
 
 ### Day 16: March 3, 2021 Wednesday
 
@@ -102,7 +102,7 @@
 
 **Thoughts**: This was quick and easy becuase it was set up with the same CSS styles as my portfolio. I just added all the certificates from SoloLearn classes that I've completed. I can't wait to add my Skillcrush certificate here whenever I finish bootcamp!
 
-**Link(s) to work**: [Project Name](http://www.kirstendarling.com/certificates/index.html)
+**Link(s) to work**: [Certificates Page](http://www.kirstendarling.com/certificates/index.html)
 
 ### Day 17-23: March 4, 2021 Thursday to March 10, 2021 Wednesday
 
@@ -110,4 +110,4 @@
 
 **Thoughts**: Editing WordPress theme files is super fun! You can do so much more with WordPress than just the common blog.
 
-**Link(s) to work**: [Project Name](http:www.darlingwebdevelopment.com)
+**Link(s) to work**: [Skillcrush Starter Theme](http:www.darlingwebdevelopment.com)
