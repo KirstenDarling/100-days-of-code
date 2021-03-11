@@ -82,8 +82,32 @@
 
 ### Day 14: February 26, 2021 Friday
 
-**Today's Progress**:
+**Today's Progress**: I worked on a survey form from freeCodeCamp
 
-**Thoughts**:
+**Thoughts**: I definately enjoy developing more than designing.
 
-**Link(s) to work**: [Project Name](link.com)
+**Link(s) to work**: [freeCodeCamp Survey Form](https://codepen.io/kirstendarling/pen/xxOYYEb)
+
+### Day 15: March 2, 2021 Tuesday
+
+**Today's Progress**: I completed my portfolio website
+
+**Thoughts**: After getting over COVID-19, I jumped back into coding with a project that was a long time coming. I finally had enough CSS3 and HTML5 sample sites completed to make a portfolio
+
+**Link(s) to work**: [Project Name](http://www.kirstendarling.com)
+
+### Day 16: March 3, 2021 Wednesday
+
+**Today's Progress**: I added a certificates page to my portfolio website.
+
+**Thoughts**: This was quick and easy becuase it was set up with the same CSS styles as my portfolio. I just added all the certificates from SoloLearn classes that I've completed. I can't wait to add my Skillcrush certificate here whenever I finish bootcamp!
+
+**Link(s) to work**: [Project Name](http://www.kirstendarling.com/certificates/index.html)
+
+### Day 17-23: March 4, 2021 Thursday to March 10, 2021 Wednesday
+
+**Today's Progress**: I finished building a custom WordPress template/theme with custom CSS and PHP. This project was for a Skillcrush class.
+
+**Thoughts**: Editing WordPress theme files is super fun! You can do so much more with WordPress than just the common blog.
+
+**Link(s) to work**: [Project Name](http:www.darlingwebdevelopment.com)
