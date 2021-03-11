@@ -111,3 +111,11 @@
 **Thoughts**: Editing WordPress theme files is super fun! You can do so much more with WordPress than just the common blog.
 
 **Link(s) to work**: [Skillcrush Starter Theme](http:www.darlingwebdevelopment.com)
+
+### Day 24: March 11, 2021 Thursday
+
+**Today's Progress**: I completed Skillcrush's Intro to WordPress class!
+
+**Thoughts**: WordPress is awesome! I can't wait to get started on my next class and get deeper into it.
+
+**Link(s) to work**: [WordPress Class Completed](https://twitter.com/kdarling93/status/1370074360694910983)
